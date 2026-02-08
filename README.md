@@ -92,7 +92,6 @@ arduino
 Copy code
 http://localhost:3000
 🌐 Live Demo
-🔗 [Coming Soon - Add your deployment link here]
 
 🎯 Learning Outcomes
 Practiced full-stack project structuring
